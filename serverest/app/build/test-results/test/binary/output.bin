@@ -1,0 +1,37 @@
+HTTP/1.1 400 Bad Request
+ Access-Control-Allow-Origin: *
+x-dns-prefetch-control: off
+x-frame-options: SAMEORIGIN
+@strict-transport-security: max-age=15552000; includeSubDomains
+x-download-options: noopen
+!x-content-type-options: nosniff
+!x-xss-protection: 1; mode=block
+?x-moesif-transaction-id: aee92257-98fa-4ff5-b849-8b6717246cd6
+/Content-Type: application/json; charset=utf-8
+Content-Length: 117
+%Date: Mon, 01 Jan 2024 22:54:46 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{
+M    "message": "Não é permitido excluir usuário com carrinho cadastrado",
+%    "idCarrinho": "t6mwXHjV1Q45w9O7"
+}
+HTTP/1.1 200 OK
+ Access-Control-Allow-Origin: *
+x-dns-prefetch-control: off
+x-frame-options: SAMEORIGIN
+@strict-transport-security: max-age=15552000; includeSubDomains
+x-download-options: noopen
+!x-content-type-options: nosniff
+!x-xss-protection: 1; mode=block
+?x-moesif-transaction-id: 83e8c3ff-0b90-4502-814f-4e151e359c9c
+/Content-Type: application/json; charset=utf-8
+Content-Length: 51
+%Date: Mon, 01 Jan 2024 22:54:46 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{
+0    "message": "Registro excluído com sucesso"
+}
