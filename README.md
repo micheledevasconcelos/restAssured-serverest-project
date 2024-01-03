@@ -2,7 +2,7 @@
 github.com/ServeRest/ServeRest
 
 # Cenários mapeados:
-Exercício 03
+userE2ETest/Exercicio03.java
 
 A. Validar que o estoque de um produto é diminuído quando o produto é
 colocado em um carrinho.
@@ -10,7 +10,7 @@ colocado em um carrinho.
 B. Validar que o estoque de um produto é aumentado quando um carrinho é
 cancelado.
 
-Exercício 04
+userE2ETest/Exercicio04.java
 
 A. Validar que um usuário que possui carrinho associado não pode ser excluído.
 
